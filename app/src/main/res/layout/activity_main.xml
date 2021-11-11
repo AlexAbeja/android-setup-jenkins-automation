@@ -44,6 +44,16 @@
         android:textAlignment="center"
         android:textSize="85sp" />
 
+    <TextView
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:background="#541E70"
+        android:text="Alex estuvo aquí"
+        android:textColor="#B54AE3"
+        android:textAlignment="center"
+        android:textSize="85sp" />
+    
     <pl.droidsonroids.gif.GifImageView
         android:layout_width="0dp"
         android:layout_height="match_parent"
